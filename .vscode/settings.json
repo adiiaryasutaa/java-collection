@@ -1,0 +1,14 @@
+{
+	"editor.fontSize": 14,
+	"editor.fontFamily": "Source Code Pro",
+	"editor.lineHeight": 27,
+	"editor.tabSize": 2,
+	"window.zoomLevel": 0,
+	"editor.minimap.enabled": false,
+	"workbench.colorTheme": "IntelliJ Dark",
+	"workbench.iconTheme": "material-icon-theme",
+
+	"java.autobuild.enabled": true,
+	"java.home": "G:/F4/source/jdk",
+	"java.configuration.updateBuildConfiguration": "automatic",
+}
