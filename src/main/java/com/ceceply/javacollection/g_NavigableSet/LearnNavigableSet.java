@@ -1,4 +1,4 @@
-package com.ceceply.javacollection;
+package com.ceceply.javacollection.g_NavigableSet;
 
 import java.util.Arrays;
 import java.util.NavigableSet;

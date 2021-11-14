@@ -1,4 +1,4 @@
-package com.ceceply.javacollection;
+package com.ceceply.javacollection.a_Iterable;
 
 import java.util.List;
 
